@@ -25,7 +25,6 @@ const BundlrBalance = () => {
 		setMessage(fundStatus);
 		setCurBalance(await getBalanceMatic());
 		setFundAmount(0);
-		
 	};
 
 	return (
