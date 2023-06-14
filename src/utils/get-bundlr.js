@@ -1,5 +1,6 @@
 import { WebBundlr } from "@bundlr-network/client";
 import { ethers } from "ethers";
+//Why node_modules in .gitignore?
 
 /**
  * Creates a new Bundlr object that will then be used by other
